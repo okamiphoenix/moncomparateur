@@ -1,4 +1,3 @@
-typescript
 import { siteConfig } from "@/config/site";
 
 export async function GET() {
