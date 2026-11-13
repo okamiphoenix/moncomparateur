@@ -1,4 +1,3 @@
-tsx
 import { siteConfig } from "@/config/site";
 
 export default function TopImageBanner() {
