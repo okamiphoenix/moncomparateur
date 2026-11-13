@@ -1,4 +1,3 @@
-typescript
 export const TOP_30_VILLES = [
   { nom: "Paris", cp: "75001", slug: "paris-75001", dept: "75" },
   { nom: "Marseille", cp: "13001", slug: "marseille-13001", dept: "13" },
