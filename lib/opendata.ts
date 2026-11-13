@@ -1,4 +1,3 @@
-typescript
 export interface StationCarburant {
   id: string;
   nom: string;
