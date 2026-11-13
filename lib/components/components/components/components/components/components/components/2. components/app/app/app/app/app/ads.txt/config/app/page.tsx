@@ -1,4 +1,3 @@
-tsx
 import Link from "next/link";
 import { Fuel, Zap, MapPin } from "lucide-react";
 import { getPrixMoyensNationaux, getTarifsMoyensRechargeVE } from "@/lib/opendata";
