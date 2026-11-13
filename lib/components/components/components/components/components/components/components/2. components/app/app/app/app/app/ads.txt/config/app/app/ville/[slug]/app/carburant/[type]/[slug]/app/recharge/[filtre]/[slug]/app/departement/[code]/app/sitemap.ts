@@ -1,4 +1,3 @@
-typescript
 import type { MetadataRoute } from "next";
 import { siteConfig } from "@/config/site";
 import { TOP_30_VILLES, DEPARTEMENTS } from "@/config/geo-data";
