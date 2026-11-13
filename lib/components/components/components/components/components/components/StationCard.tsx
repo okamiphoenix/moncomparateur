@@ -1,4 +1,3 @@
-tsx
 "use client";
 
 import { Navigation, Share2, Fuel, Zap } from "lucide-react";
